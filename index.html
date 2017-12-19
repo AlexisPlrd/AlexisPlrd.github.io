@@ -2,10 +2,52 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mon site</title>
+    <title>Alexis Plard — Design graphique</title>
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pinyon+Script" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>salut c'est mon site è_é</h1>
-    <h2>il contiendra de la poésie</h2>
+    <h1 class="titre"><a href="index.html">Alexis Plard</a></h1>
+   <nav class="menu">
+     <ul>
+       <li><a href="apropos.html">à propos</a></li>
+       <li><a href="book.html">book</a></li>
+       <li><a href="contact.html">contact</a></li>
+       <li><a href="curriculumvitae.html">curriculum vitae</a></li>
+       <li><a href="">d</a><img src="Gifs/gifD.gif"/></li>
+       <li><a href="">e</a><img src="Gifs/gifE.gif"/></li>
+       <li><a href="">f</a><img src="Gifs/gifF.gif"/></li>
+       <li><a href="">g</a><img src="Gifs/gifG.gif"/></li>
+       <li><a href="">h</a><img src="Gifs/gifH.gif"/></li>
+       <li><a href="https://www.instagram.com/alexisorry/" onclick="window.open(this.href); return false;">instagram</a>
+       <li><a href="">j</a><img src="Gifs/gifJ.gif"/></li>
+       <li><a href="">k</a><img src="Gifs/gifK.gif"/></li>
+       <li><a href="">l</a><img src="Gifs/gifL.gif"/></li>
+       <li><a href="">m</a><img src="Gifs/gifI.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">n</a><img src="Gifs/gifN.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">o</a><img src="Gifs/gifO.gif"/></li>
+       <li><a href="projets.html">projets</a></li>
+       <li class="caler_gif_en_bas"><a href="">q</a><img src="Gifs/gifQ.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">r</a><img src="Gifs/gifR.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">s</a><img src="Gifs/gifS.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">t</a><img src="Gifs/gifT.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">u</a><img src="Gifs/gifU.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">v</a><img src="Gifs/gifP.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">w</a><img src="Gifs/gifW.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">x</a><img src="Gifs/gifX.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">y</a><img src="Gifs/gifY.gif"/></li>
+       <li class="caler_gif_en_bas"><a href="">z</a><img src="Gifs/gifZ.gif"/></li>
+     </ul>
+   </nav>
+   <div class="imagesdroites"><a href="http://publicdomainreview.org/collections/" onclick="window.open(this.href); return false;">
+    <img id="image_aleatoire" src="archives/022.jpg"></a>
+     </div>
+
+     <script type="text/javascript">
+       var nbimages = 9;
+       var i = document.querySelector('#image_aleatoire');
+       i.src = "archives/" + Math.round(Math.random() * nbimages) + ".jpg";
+     </script>
   </body>
 </html>
