@@ -16,6 +16,10 @@ a {
     text-decoration: none;
 }
 
+footer {
+  
+}
+
 .titre  {
   position: fixed;
   right: 16px;
@@ -74,15 +78,14 @@ a {
 .menu li img {
   display: none;
 }
-.menu li:hover img {
-  display: initial;
-}
 
 .menu li:hover img {
+    display: initial;
     width: 100%;
     position: absolute;
     top: 25px;
-    left:calc(100% - 8px);
+    right:calc(-100% + 20px);
+    z-index: -2;
 }
 
 .menu li.caler_gif_en_bas:hover img {
@@ -140,7 +143,7 @@ a {
   width: 25%;
   margin-left: 24%;
   font-size: 23px;
-  position: fixed;
+  position: absolute;
 }
 
 .textepresentation25absolu {
@@ -154,5 +157,5 @@ a {
   width: 25%;
   margin-left: 53%;
   font-size: 23px;
-  position: fixed;
+  position: absolute;
 }
