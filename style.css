@@ -163,6 +163,9 @@ footer {
 
 }
 @media screen and (max-width: 900px), (max-height: 700px) {
+    .vide {
+      display: none;
+    }
     .textepresentation25, .textepresentation55, .menu li {
       font-size: 18px;
     }
