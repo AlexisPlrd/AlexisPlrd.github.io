@@ -1,0 +1,191 @@
+LE COMING-OUT
+1ère phase de diplôme — DSAA — Alexis Plard
+
+
+Durant mon projet de diplôme de BTS, je me suis rendu compte qu’en tant que designer graphique, nous avons une voix que certaines personnes n’ont pas. Une voix qui n’est pas la notre, mais une légitimité à la mettre en forme et à la faire entendre. Dans notre société occidentale, où le design graphique est régit par la consommation et la production, cette voix qui nous est conférée met rarement à l’honneur les problèmes sociaux que nous rencontrons pourtant tous. Souvent tabous, et leur traitement n’étant pas lucratif, ils sont souvent réprimés et dissimulés. Cependant, des personnes concernés par une particularité, que nous définiront comme appartenir à une minorité, font face à des situations difficiles où elles sont souvent incomprises et marginalisées, car inconnues ou mal connues. Le manque d’information, la désinformation et la mésinformation amènent à catégoriser ces personnes, sans prendre en compte leur individualité, et aboutissent à des stéréotypes brutaux. Les conséquences de ces stéréotypes peuvent être très graves sur les personnes minoritaires. 
+
+En souhaitant au préalable développer la connaissance sur l’allaitement et combattre les préjugés qui sont liés à cette pratique, j’ai interrogé une trentaine de femmes. Je me suis alors rendu compte que le premier problème à résoudre, avant de démonter ces opinions préconçues, était d’écouter et donner la parole à ces femmes, qui avaient clairement besoin de partager leur histoire pour rassurer leurs pairs, exprimer leurs craintes, poser des questions, etc. 
+J’ai donc compris que permettre à une personne minoritaire de témoigner d’une expérience personnelle, quelque soit sa forme, permet un premier contact pertinent avec ses semblables et le grand public, et amorce une discussion qui remet en question les préconceptions. Selon moi, les personnes vivant des problèmes liés à sa minorité est la mieux placée pour en parler et rendre compte de la réalité de cette minorité. 
+
+Pour mon projet de DSAA, je souhaite explorer plus en profondeur ce thème, mais en me rapprochant d’une toute autre minorité dont je fais partie : la communauté homosexuelle masculine. En étant au coeur des questionnements liés à cette minorité, il me sera plus aisé d’entrevoir les enjeux et les problèmes qui lui sont intrinsèques. 
+
+Dans un premier temps, j’ai recherché des témoignages d’homosexuels français qui racontent le moment de leur coming-out. Internet m’a semblé la manière la plus simple et logique d’atteindre ces témoignages dans un premier temps, car il s’agit d’un terrain d’expression libre, qui offre de la visibilité, et où beaucoup recherchent des conseils, un soutien, une oreille attentive. Il permet aussi de ne pas faire face physiquement à son interlocuteur, ce qui rend une aisance dans la parole, dont l’anxiété est réduite. En cliquant sur le texte gras, des extraits de ces témoignages apparaîtront dans la partie droite de l'écran, en lien avec le propos de l'analyse. 
+Ces témoignages m’ont permis de me rendre compte des schémas qui construisent le coming-out, de soulever les problèmes que rencontraient ces « témoins », des causes et des conséquences d’un tel acte, ainsi que leurs ressentiments et questionnements personnels. 
+        À cette analyse, j’ajouterai des références qui soutiendront et expliciteront ces notions (encore floues quand elles sont exprimés par un témoin lui-même), ce qui me permettra de soulever plusieurs problèmes, dont au moins un susceptible d’être traité par le domaine du design graphique. 
+
+
+LE COMING-OUT 
+
+La lecture de ces témoignages m’a permis d’analyser le processus du coming-out auquel les homosexuels font face. 
+        Avant toute chose, il est important de définir le coming-out. Il s’agit du processus individuel pour les homosexuels de révéler et divulguer son homosexualité aux autres (Rench, 1990). En français, le coming-out se traduit par « sortir du placard » (l’expression de base étant « coming out of the closet »). Il est intéressant de questionner cette notion de « placard », qui exprime très bien la notion de dissimulation et de secret (on parle souvent du « squelette dans le placard », qui définit une information compromettante). Philippe Mangeot, enseignant et ancien membre de Act-Up, le rapport à l’aspect du placard dans le théâtre bourgeois où l’on cachait un amour interdit. 
+        La notion de coming-out en France est différente de celle dans les pays anglo-saxons : chez nous, il s’agit de l’action finale, la revendication de son homosexualité en soi. En anglais, elle se rapproche d’une notion d’action dans le temps, sur une durée plus ou moins déterminée (« to come »). Il devient pertinent de considérer le coming-out comme quelque chose qui n’a pas réellement de finalité, comme le soutient Didier Eribon (1999), un philosophe et sociologue français qui s’est largement intéressé à la question LGBT, en expliquant qu’il s’agit d’un basculement, d’une conversion, d’un projet de toute une vie sans cesse réactualisé (à chaque fois que l’individu est confronté à de nouvelles personnes) et que le coming-out n’appartient pas au passé. Cette théorie est soutenue par Eve Kosofsky Sedgwick, une universitaire américaine très engagée sur les études LGBT aussi, qui va plus loin en expliquant qu’on est jamais complètement dans le placard ni complètement sorti du placard, que le coming out commence avant d’avoir commencé et n’est jamais vraiment terminé. 
+        Pour terminer sur une vision large de la définition du coming-out, on notera la comparaison à un « rite de passage » faite par Herdt, un anthropologue américain, en 1989. On comprend qu’il y a bien un « avant » et un « après », qui se traduisent par faits diamétralement opposés, qu’il sera aisé de comprendre en étudiant les témoignages. 
+
+J’ai récolté 21 témoignages, trouvés dans des articles du magazine Cosmopolitan, Libération, et sur le tumblr « easycominout-voshistoires ». Concernant l’identité des témoins, je n’ai que leur prénom (certains expriment aussi leur âge et statut), mais cela n’interfère pas pour le moment sur les constats effectués, qui se basent davantage sur le processus du coming-out et ce qui l’entoure. 
+Ils reflètent la diversité des approches qu’ont adopté ces 21 hommes de tous âges et milieux socio-professionnels différents. Le premier constat est clair : chacun a vécu cette expérience de manière unique, et prouvent qu’aucun coming-out ne se ressemble parfaitement. On discerne cependant des points communs qu’il est nécessaire d’analyser. 
+        J’ai choisi de catégoriser ces points de la manière suivante : ceux rattachés à l’identité sexuelle (qui est la notion de base avant tout coming-out), les causes, les conséquences, le rapport à l’homophobie et aux stéréotypes, les facteurs d’échec, et les sensations éprouvées. 
+        J’étudierai dans un second temps les facteurs facilitants pour un coming-out, souvent peu clairs dans ces témoignages, mais explicites dans la revue de presse réalisée en amont de cette étude. 
+
+
+
+
+
+
+
+
+L’IDENTITÉ SEXUELLE 
+
+La notion d’identité sexuelle est directement liée au coming-out, puisqu’il s’agit de reconnaître cette identité sexuelle et d’intégrer ses préférences à sa vie personnelle et sociable. Il s’agit donc, en psychologie sociale, d’un processus d’identification, comme l’ont démontré De Monteflores et Schultz en 1978. 
+Pour une meilleure compréhension du sujet, on notera ce qui semblent être les différents constituants de l’identité sexuelle pour définir cette notion. Ces constituants, à ne pas confondre, sont le sexe biologique (le principe de mâle et femelle, indiqué par la présence du pénis ou du vagin), l’orientation sexuelle (la notion d’attirance et de désir romantique et/ou sexuel envers une personne) et le comportement sexuel (qui se réfère à l’acte sexuel accompli avec une personne). La majeur partie du temps, ces trois constituants se superposent de la manière suivante : une personne avec un pénis est attiré par une personne avec un vagin, cette attirance est réciproque, et un acte sexuel a lieu entre eux. Il s’agit de l’hétérosexualité, et celle-ci définit la « norme » aujourd’hui, puisqu’elle concerne une majorité d’êtres vivants. Cependant, on assiste parfois à des superpositions différentes, qui définissent l’homosexualité, la bisexualité, l’asexualité ou la transexualité. Considérés comme « hors-norme », ces identités sexuelles sont dévalorisées, et peuvent faire l’objet de réticence et de haine. Une réaction propre à l’espèce humaine face à la différence. 
+        Robert Stoller psychanalyste et psychiatre américain, va plus loin et explique en 1989 que l’intégration de l’orientation et du comportement sexuels peut avoir des effets sur l’appartenance à un genre : un homme qui comprend son homosexualité aura peur de ne plus appartenir au groupe des hommes. 
+
+L’hétérosexualité étant le modèle communément accepté par la société, chaque être humain est, dès la naissance, considéré comme appartenant à ce modèle. Or, un jeune homme qui se rend compte ne pas appartenir à cette norme, vit une dissonance entre ses pulsions homosexuelles et le jugement qu’il s’inflige. Cela nous est expliqué par Maiffret et Vasconellos en 2004, dans un article pour la revue scientifique L’information psychiatrique, qui reprennent d’une certaine manière la théorie des instances de la personnalité de Freud (1923). Dans ce cas, le Ça représente les pulsions homosexuelles et le Surmoi le jugement émis par la société. En réalité, ce Surmoi se transforme très rapidement (dès l’enfance) en Idéal de moi, c’est-à-dire que le jugement est intégré par l’individu lui-même, et émet un jugement négatif par lui-même, souhaitant se conformer en permanence à une sexualité plus facilement admissible, qu’à une autre rejetée. 
+        Dans le cadre du diplôme, Inès Gamboa et moi allons proposer un atelier graphique autour de ces questions. Nous souhaitons voir comment des jeunes adultes rendent compte de leur identité (au sens le plus large), et comment celle-ci peut-être transcender si le Surmoi n’existait pas. Le conflit entre le Ça et le Surmoi étant au coeur du coming-out, il nous paraît évident d’en rendre compte à travers des objets graphiques (imprimés ou numériques) pour voir le processus qu’engendre ce conflit abstrait. 
+
+Chez un homosexuel, la découverte de l’identité sexuelle constitue le processus du coming-out. On retiendra deux modèles de ce processus, théorisés par Vivienne Cass (1979) et R. R. Troiden (1989), qu’on reprit Maigret et Vasconcillos en 2004, pour les regrouper en quatre points majeurs : 
+        La sensibilisation : elle apparaît durant l’enfance et se caractérise par le sentiment de différence et de marginalisation de l’individu ; 
+        La confusion : elle apparaît à l’adolescence, où l’individu commence à penser que ses sentiments et comportements peuvent être perçus comme homosexuels (c’est à ce moment qu’intervient la dissonance et l’auto-jugement ; 
+        La concialiation : il s’agit du moment où l’individu intègre le fait qu’il est homosexuel, mais la tolère plus qu’il ne l’accepte. Il y a plusieurs issues à cette phase (le rejet total, l’acceptation, la « double-vie »…). Cass observe des éléments déterminants pour le déroulement de cette phase et indicateurs de l’issue qu’elle prendra : à ce stade, l’individu ressent le besoin de s’informer sur l’homosexualité et sa culture, il souhaite entrer en contact avec ses pairs et expérimenter sexuellement. Si cette découverte est négative, le développement identitaire en est bousculé. 
+Les autres homosexuels qu'il connaît peuvent l'aider pour son acceptation et son coming-out, qu'il s'agisse d'un parent ou d'un compagnon ; 
+        L’engagement : cette dernière phase est caractérisée par l’adoption de l’homosexualité dans sa totalité, dont découle une identité propre, authentique et conforme aux désirs et besoins du sujet, ainsi qu’une meilleure intégration au niveau social. 
+
+On notera deux moments-clé ayant lieu durant la conciliation (3ème étape) dans ce modèle de découverte d’identité sexuelle. Dans un premier temps, le fait qu’un des facteurs facilitant du coming-out soit l’accès à la culture gay et la connaissance du sujet. Une majeure partie de la revue de presse effectuée en amont de cette analyse rend très bien compte de l’impact de la médiatisation de la culture gay sur l’acceptation des jeunes homosexuels. Nous reviendrons sur cette notion un peu plus tard. 
+        L’autre étape clé durant la conciliation s’agit du « coming in », à savoir le fait de se rendre compte de son homosexualité et de l’accepter. C’est un processus parfois aussi long que le coming-out. La jeune journaliste Élodie Font raconte à travers un témoignage drôle et émouvant son coming-in dans un petit documentaire d’Arte Radio en 2017. Elle raconte le très long processus auquel elle a fait face avant de comprendre son attirance pour les filles. Au moment de son coming-out, qu’elle finit par faire auprès de ses parents, elle évoque notamment la sensation de peur du rejet, puis la sensation de liberté et de ne plus avoir à mentir. Elle termine son témoignage en expliquant que, face à la l’homophobie médiatique, l’envie lui ai venue d’écrire. Elle cite aussi Taubira « chacune, chacun d’entre nous est singulier, et c’est la force de la société ». 
+        Selon moi, la conciliation est le moment le plus décisif dans le processus de coming-out, car il présente un choc entre l’individu et lui-même, ainsi qu’entre l’individu et son environnement. 
+        On observe aussi une très nette envie de s'exprimer, qui s'apparente presque à un besoin vital. Il s’agit probablement de cette étape sur laquelle j’ai envie de me concentrer pour le macro-projet. 
+
+
+
+LES FACTEURS FACILITANT ET COMPLIQUANT LE COMING-OUT 
+
+Il existe beaucoup de facteurs facilitant et compliquant le coming-out d’un individu, mais j’en ai retenu trois pour chacune des catégories, qui sont plus ou moins généralisés et non pas identifiés au cas par cas. On retrouvera aisément ces facteurs dans les témoignages recueillis. 
+
+
+Facteurs facilitant 
+
+L’environnement joue évidemment un rôle majeur dans le processus du coming-out. (1) (2) 
+Un cadre familial aux valeurs traditionnelles et/ou religieuses est rarement propice à l’acceptation d’un enfant homosexuel. À l'inverse, une bonne relation entre parents et enfants est le facteur le plus important et définira en soi les retombées du coming-out. C’est ce que rapportent Heatherington et Lavner dans leur étude « Coming to terms with coming out », datant de 2008. Plus généralement, un environnement social favorable à l'écoute et à la compréhension sera plus à même d'accueillirpositivement le coming-out. 
+        Si la relation est bonne, ou du moins correcte, cela ne suffit pas à obtenir des réactions positives. On remarque dans cette même étude que les parents ayant déjà eu quelques contacts avec la culture/communauté homosexuelle, comme un ami ou un proche par exemple, seront plus à même à accueillir la nouvelle. 
+        En parallèle, pour l’individu en lui-même, cette même connaissance de la culture/communauté gay peut faciliter les stades de confusion et de conciliation. Certains témoignages prouvent qu’à un moment de leur adolescence, les jeunes homosexuels ressentent comme un besoin de comprendre ce à quoi se réfère le fait d’être gay. Pour cela, il aura plus d’aise à révéler son homosexualité à ses pairs dans un premier lieu, s’il en connaît. 
+        Pour aller plus loin, certains admettent même que le fait d’avoir des « role-models », à savoir un modèle auquel on se réfère et que l’on admire pour ses valeurs, sa manière d’agir ou de penser. De la même manière que les enfants de couleur ont besoin de voir des adultes de couleur « réussir », être écouté et valorisé, les homosexuels ont besoin, pour comprendre qu’il ne s’agit pas d’une tare, de role-models. 
+
+
+Il est décrit dans cet article du Monde (mai 2018) la démarche de Mounir Mahjoubi, secrétaire d’état au numérique, dans sa démarche de coming out publique via Twitter. Il soutient que son message participe à la lutte contre l’homophobie. L’association SOS Homophobie réagit en affirmant que c’est un acte fort qui donne de la visibilité aux jeunes LGBT, ainsi qu’un exemple positif.
+
+Retour sur l’ensemble des coming-out de personnalités réalisés au cours de 2017. La majeur partie d’entre elles insistent sur le fait qu’il leur semblait important de révéler leur sexualité dans un but de soutient et d’exemple pour les personnes LGBT non outé.
+
+
+De manière générale, on se rend compte que ce qui facilite un coming-out, c’est la connaissance de la culture gay et l’appréhension de celle-ci comme une chose plus positive que négative. Pour cela, la visibilité doit être mise à l’honneur, en se focalisant sur le fait qu’il n’existe pas qu’une seule « expérience homosexuelle », pour laisser à chacun la « place » de se situer. 
+
+Il m’a semblé aussi intéressant de m’attarder sur la volonté de certains jeunes homosexuels à faire leur coming-out de manière originale et artistique. Ce phénomène permet de dédramatiser la situation. Deux articles présentent des projets originaux dans ce but. 
+
+
+En 2016, Têtu présente une initative intéressante portée par James Middleton (le frère de Kate Middleton), qui souhaite aider les jeunes homos à faire leur coming-out en annonçant la nouvelle de manière douce, grâce à des chamallow pré-personnalisés. On y trouve des messages simples et efficaces, mais aussi décalés.
+
+Quelques semaines plus tard, le magazine culte suit un exemple original de coming-out, puisque celui-ci s’est fait à travers un clip. Il s’agit de Rayon Owen, un chanteur afro-américain révélé par American Idol, et qui souhaite donner l’exemple pour les jeunes afro-américains aux États-Unis.
+
+
+
+
+
+
+
+
+
+
+Facteurs compliquant 
+
+Un homosexuel qui est profondément en désaccord avec ses désirs vit ce qu’on appelle une homosexualité dystonique (en opposition avec l’homosexualité synthonique). Il s’agit d’une réponse très négative apportée lors de la phase de conciliation : un coming-in « raté ». En n’acceptant pas sa différence, un homosexuel aura énormément de mal à faire son coming-out. 
+Aussi, les personnes ayant une faible estime d’eux-même, donc un sentiment d’illégitimité à assumer leurs préférences en général, vivront des difficultés elles aussi. 
+
+Enfin, lorsqu’un jeune homosexuel prend conscience qu’il va probablement subir des discriminations dans une société dominé par l’hétérosexualité, il comprend que son coming-out est annonciateur de changements radicaux, comme la perception qu’auront les autres de lui. 
+
+
+
+HOMOPHOBIE ET STÉRÉOTYPES 
+
+
+J’aimerais introduire ces notions par un article du Monde de juin 2018, qui reprend une étude menée par l’IFOP et souligne que l’homophobie est toujours très présente en France, et qu’elle s’accroît. Elle se traduit par de nombreuses agressions verbales et physiques, ainsi que des menaces qui touche une très large portion de la communauté LGBT. Cette hausse viendrait en partie du fait que l’homosexualité est de plus en plus reconnue. Le constat tiré de cette étude prouve qu’il faut plus d’études sur le sujet pour permettre d’anticiper des solutions adéquates, en se basant sur des témoignages.
+
+
+Le livre « Sociologie de l’homosexualité », écrit par Sébastien Chauvin et Arnaud Lerch en 2013, m’a permit de mieux comprendre la notion d’homophobie, ainsi que ses retombées sur le processus de coming-out. 
+        Les auteurs questionnent notamment la notion de « phobie », qui mêle crainte et hostilité, mais qui renvoie à un sentiment individuel, presque pathologique. En 2005, le sociologue Éric Fassin propose le terme « hétérosexisme » qui dénonce davantage l’aspect politique de la pression exercée sur les minorités sexuelles. Plus simplement, une société hétérosexiste hiérarchise les sexualités, tout en stéréotypant celles qui sont différentes de la norme. Ils complètent cette analyse par cette analogie : « L’hétérosexisme serait à l’homophobie ce que le sexisme est à la mysoginie ». 
+
+Chauvin et Lerch expliquent qu’avant la seconde guerre mondiale, le « modèle homosexuel » était caractérisé par l’efféminement et la transgression du genre. Depuis la seconde moitié du XXème siècle, de nouveaux codes d’identification apparaissent, avec notamment un surcroit de masculinité. Il devient alors plus difficile de « distinguer » les homosexuels des hétérosexuels. Il devient alors important pour eux de se démarquer et refuser les ambiguïtés, qui se traduit par un rejet ouvert des homosexuels. Des études ont d’ailleurs prouvé que c’est davantage le rejet du trait féminin chez un homosexuel qui définit l’homophobie envers lui, plus que le rejet de l’idée de ses rapport homosexuels. 
+        Leo Bersani, professeur américain, va plus loin en 1995 en expliquant que l’homophobie se démarque des autres formes de discrimination. En effet, alors « même le pire raciste ne pourrait craindre que les Noirs aient le pouvoir séducteur de le rendre noir », l’homophobie trouve une force dans la crainte que l’affirmation de l’homosexualité entraîne le « recrutement » des hétérosexuels. Il s’agit d’une possibilité permanente et envisageable, mais qui dérange. 
+
+Selon Chauvin et Lerch, les principaux aspects qui justifient la discrimination et les injures envers les homosexuels se divisent en trois catégories : « les injures qui tendent à punir l’homosexualité affichée qui souhaite bénéficier du même niveau de visibilité et de banalisation de l’hétérosexualité », celles qui punissent la déviance de genre, qui remet donc en cause les idées préconçues et « rend visible une orientation sexuelle minoritaire », et celles qui « répriment le couple de même sexe, c’est-à-dire l’institution par laquelle la relationalité homosexuelle menace les privilèges de l’hétérosexualité ». 
+
+L’aspect le plus intéressant de l’impact de l’homophobie sur le coming-out, et donc sur le développement de l’identité sexuelle chez un gay, réside dans l’injure, le stéréotype, l’invisibilisation et la pression sociale. 
+        On se rend très vite compte que le développement de l’identité sexuelle d’un jeune homosexuel, sorti du placard ou non, se fait en partie par les insultes et la répression (1) (2) , ce qui engendre une découverte de soi peu favorable. De manière à détourner les regards, beaucoup d’individu pratiquent le « passing », (1) (2) qui signifie « se faire passer pour », en l’occurence pour un hétérosexuel. C’est une réponse que l’on retrouve souvent durant la phase de conciliation. Erving Goffman, sociologue américain, explique en 1986 le gros travail fait par ces jeunes gens sur l’apparence, de manière à ne pas être « percé à jour ». Cela permet de se mettre à l’abri des injures et de la menace présente en permanence, car il s’agit là de ce que ces individus craignent le plus. En parallèle de cela, la pression sociale exercée sur eux en les désignant d’office comme hétérosexuels accentue la dissonance qu’ils ressentent et la confusion de leur identité. 
+
+Nous le savons aussi, aujourd’hui les médias jouent un rôle décisif dans le développement de l’identité des jeunes, surtout sur l’image qu’ils ont d’eux-même. On se focalisera sur la notion de représentation médiatique qui, en terme de quantité et de qualité de représentation de la minorité homosexuelle, ne permet pas une construction idéale. 
+En 2016, 22 des 126 films hollywoodiens comportaient au moins un personnage LGBT, et seulement la moitié de ces films leur accordait plus d’une minute de temps de parole. On notera en parallèle que les films, séries, livres, publicités et magazines qui traient de l’homosexualité à un moment (qu’il soit très court ou développé) sont principalement réservés aux adultes. La première série Disney Channel à montrer sur petit écran un personnage qui se définit comme homosexuel date de 2017. Dans cet océan de représentation normée par l’hétérosexualité, comment un jeune homosexuel peut comprendre et accepter sa différence ? Nous l’avons vu, il est nécessaire à sa construction psychique d’être au fait qu’il est possible pour un jeune gay d’être intégré socialement et de ne pas être défini seulement par sa sexualité. En 2018, il est aussi compliqué de trouver ces modèles dans la réalité, que dans les médias. 
+L’homosexualité représente aussi mal qu’elle n’est représentée. Il suffit de taper « homosexuel » dans la banque d’images de Google (premier endroit de recherche pour les enfants et adolescents) pour se rendre compte qu’il existe un archétype du gay, bien loin de la réalité. Quand il ne s’agit pas d’images d’hommes battus, on observe seulement des photos de garçons blancs, minces et musclés, à la pilosité parfaitement entretenue ou inexistante. Il en est de même dans la majeure partie des films et séries, ainsi que des magazines. Au-delà de permettre son homosexualité à un personnage, il devient nécessaire en parallèle de le distinguer des autres, puisque ce qui fait sa différence est « invisible ». 
+
+Cet article décrit dans un premier temps les prémices du développement de l’identité homosexuelle par les insultes, alors que l’individu concerné n’est pas encore pleinement au fait de son orientation sexuelle et, n’ayant aucun repère familial, cherche « à tâtons » des réponses. 
+        Il est exprimé que si l’individu n’a pas de repères dans son entourages, il sera autant compliqué d’en trouver dans les jeux-vidéo, la télévision ou le cinéma, et encore davantage lorsqu’il s’agit de programmes « de son âge » (ces questions surgissent généralement vers 15-16 ans, alors que les personnages LGBT sont souvent représentés dans les films et séries pour adultes).
+
+
+Ces points sont importants à identifier car ils mettent en évidence la domination hétérosexuelle sur la société actuelle, dont parlent Chauvin et Lerch. Il en découle une invisibilisation et un isolement, qui deviennent les principaux moteurs de l’hétérosexisme. 
+
+
+
+CAUSES ET CONSÉQUENCES DU COMING-OUT 
+
+Causes 
+
+Je soulignerai deux types de causes que j’ai relevé à travers ces témoignages et qui sont confirmées et généralisées par des essais et des études. 
+        Le besoin de faire son coming-out réside dans le besoin de « rétablir la vérité ». En évoluant dans un environnement qui vous croit hétérosexuel, il est attendu de penser et se comporter d’une certaine manière, qui n’est pas la votre. Il peut s’agit de choses très anodines comme d’évènements ayant des conséquences plus importantes sur la construction de soi et la découverte du monde. Vivant dans le mensonge permanent, un homosexuel sentira le besoin d’exprimer qui il est, de manière à ne plus stresser en permanence, et ne pas culpabiliser en mentant à ses proches. Il recherche aussi un soutient et du réconfort chez eux, qu’il n’est pas possible d’obtenir s’il ne se dévoile pas. 
+        En amont du coming-out, des sentiments très durs à vivre le submergent, qu’il devient de plus en plus compliqué à vivre avec. On remarquera un large champ lexical de la souffrance. 
+
+Faire son coming-out c’est aussi pour certains, entrer dans la communauté gay, en admettant partager des caractéristiques communes qu’il est impossible de trouver dans le cadre familial. Cet aspect du coming-out reflète le besoin d’appartenance propre à l’être humain, et surtout pour ceux marginalisés de par leur différence. Ne se retrouvant pas dans la culture hétéronormative, et faisant l’objet des moqueries, les individus homosexuels, comme toute autre minorité présentant des caractéristiques opposés à la norme, ont défini leur propre culture et communauté. L’émergence de cette subculture, plus en adéquation avec le quotidien des homosexuels, soulève aussi l’idée d’un refuge protecteur qui permet la construction de son identité et de sa sexualité à l’écart d’une société qui la réprime. 
+
+
+Dans cet article datant de 2013, l’étudiant en journalisme Florian Bardou questionne la notion de différence au sein d’une communauté. Il soutient qu’il n’existe pas d’identité homosexuelle qui peut être généralisée à tous les gays, et qu’on ne peut pas en tirer un comportement type. Il ajoute qu’il est contradictoire de considérer qu’une communauté qui se construit autour de sa différence doit effacer celles que l’on trouve au sein d’elle-même.
+
+
+Prendre connaissance de l’éventail de diversité que représente la communauté homosexuelle, en y trouvant des questions que l’on ose pas demander et des réponses auxquelles on ne pensait même pas, facilite la compréhension de son identité, et engendre souvent une envie de la révéler si ce qui en est tiré est positif. 
+
+Le communautarisme est une notion à identifier à ce propos. Il s’agit de la tendance d’une communauté à rejeter les personnes extérieures à celle-ci, en s’en considérant supérieure. Le communautarisme désigne donc une forme d’ethnocentrisme et de sociocentrisme qui tend vers un repli sur soi. La communauté LGBT est souvent associée à une forme de communautarisme, ce qui n’est pas pertinent en soi. 
+Pierre Tourev s’appuie sur les livres « Contre le communautarisme » (Julien Landfried, Editions Armand Colin, 2007) et « Les tentations du repli communautaire » (Mohamed Kara, Editions L’Harmattan, Paris, 1998), et explique que les membres d’une communauté « considèrent que l’identité de l’individu ne peut se construire qu’au sein d’une communauté dans laquelle il peut trouver les ressources et l’estime de soi nécessaires. Pour cela la communauté doit se libérer du moule de la «culture dominante» et faire respecter ses particularités, notamment au sein des écoles. » 
+
+
+Les Gay games sont considérés comme du communautarisme. Ils sont cependant une réponse à l’homophobie ambiante dans le monde du sport en France. De manière à se sentir à l’aise pour pratiquer leur passion, ils ont créés des associations (auxquelles les hétérosexuels peuvent adhérer). Il s’agit selon moi d’un exemple qui prouve que les manifestations mettant à l’honneur une communauté ne représentent du communautarisme que pour ceux qui se sentent exclus de cette communauté, alors que c’est en fait l’inverse qui se produit en amont.
+
+
+Conséquences 
+
+On note différentes conséquences directes du coming-out, qui sont liées à la réaction du/des interlocuteur(s). Plus ce(s)-dernier(s) importent dans le cercle social de l’individu qui fait son coming-out, plus la réaction importe à la construction et à l’acceptation de soi. 
+
+Dans les pires des cas, on assiste à des risques pathologiques violents, comme le risque de honte, de solitude, d’anxiété, de dépression et de suicide. Dans le monde, les personnes LGBT se suicident en moyenne 4 fois plus que les personnes hétérosexuelles. 
+        En parallèle, beaucoup de jeunes homosexuels se voient contraint de quitter le domicile familial et couper les ponts avec leurs parents. 
+
+En France en 2018, une majorité des coming-out trouvent un dénouement moins brutal. 
+        On retrouve toujours des effets positifs d’un point de vue personnel, tels que les effets bénéfiques sur la santé mentale et somatique. Des études ont prouvé que révéler un lourd secret traumatique peut avoir des conséquences sur la santé psychique et physique. (1) (2) On observe aussi des bénéfices sur le plan social : être soi-même et s’assumer permet une libération de ses interactions et une authenticité plaisante pour son entourage. Faire son coming-out renforce nettement l’identité personnelle et sexuelle, vis-à-vis des autres et de soi. 
+
+
+Le coming-out apparaît dès la fin des années 1960 comme un acte libérateur, un moyen de surmonter le silence du placard, d’atteindre une intégrité personnelle nécessaire au bien-être psychologique et de constituer une communauté servant elle-même de levier politique et de refuge.
+
+
+Enfin, le coming-out en soi, lorsqu’il est médiatisé ou rendu publique, se veut fédérateur de la communauté, comme un soutient apporté à ses pairs. Deux articles du magazine Têtu prouvent l’aspect bénéfique du coming-out sur la communauté. 
+
+
+
+Cet article de 2017 raconte quelques coming-out publiques de personnalités (André Gide, Jean Cocteau, Guy Hocquenghem) qui ont marqué l’histoire. On s’attardera particulièrement sur la référence à Ulrichs, juriste et journaliste allemand, qui qualifie en 1869 le coming out de moyen d’émancipation, et affirme que l’invisibilité est un obstacle majeur pour changer l’opinion publique. Il recommande alors aux homosexuels de faire leur coming-out.
+
+Cet article explique les critiques parfois portées sur un coming-out médiatique, considéré parfois comme « coup de pub » ou « opportunisme ». Des questions sont alors soulevées, tout à fait pertinente quand on questionne les retombées que cela peut avoir sur les jeunes : « Mais alors comment banaliser l’homosexualité si les rares personnes médiatiques qui ont le courage de sortir publiquement du placard – malgré les risques sur leur carrière et leur vie personnelle – sont fustigées par la société, et parfois même par les homos eux-mêmes ? N’est-ce pas montrer l’exemple aux plus jeunes, isolés ou en pleine période de questionnement sur leur orientation sexuelle, que de dire « je suis homo et alors ? » devant des centaines de milliers de téléspectateurs ? N’est-ce pas un coup porté aux homophobes que de prouver qu’être gay n’est pas une raison d’être ostracisé ou invisibilisé sur l’espace public ? Alors que les relations hommes-femmes sont affichées à foison, n’est-ce pas prouver que non, l’homosexualité n’est pas plus privée que l’hétérosexualité ? »
+
+
+
+CONCLUSION 
+
+Le coming-out est un processus qui diffère d’un individu à un autre, il est impossible de généraliser une « bonne manière » de faire son coming-out. Seuls les enjeux sont les mêmes : l’acceptation de soi par soi-même et par son entourage, et l’intégration d’une identité sexuelle qui diffère de la norme. 
+Il est possible de schématiser ce processus d’identification en plusieurs étapes comme l’ont fait Cass et Troidien. Les témoignages confirment d’ailleurs, sans que les auteurs ne s’en rendent compte, passer par ces étapes cruciales. 
+
+Le constat frappant réside selon moi dans l’impact psychologique intrinsèque au coming-out, qui agit comme un très lourd secret et a les mêmes conséquences qu’un traumatisme sur le long terme. Un sentiment de souffrance lié à la solitude ressort largement des témoignages et de l’étude qui a été menée. 
+        On notera aussi l’importance de l’expression et de la connaissance du sujet de l’identité sexuelle et de l’homosexualité pour une meilleure approche de soi. L’exemple et le chemin doivent être montré, de manière à laisser la possibilité à ces jeunes de se placer selon leur volonté, en sachant qu’aucun coming-out n’a les mêmes enjeux. 
+
+Le designer graphique a une place à occuper quand il s’agit de donner la parole à ceux qui ne l’ont pas, et c’est à travers mon projet de fin d’études que je souhaite apporter des réponses aux problèmes rencontrés par les jeunes homosexuels français lors de leur coming-out. 
+
+J'ai rencontré des associations au centre LGBT de Toulouse (38 rue d'Aubuisson), dans le but de mettre en place des ateliers débat-création où il sera question de croiser les regards et points de vue sur l'homosexualité à travers une micro-édition. J'espère en parallèle développer un projet de plus grande envergure, toujours avec ces associations, dont le but serait de faciliter les jeunes et moins jeunes homosexuels à faire leur coming-out s'ils en ressentent le besoin. J'espère réutiliser la notion de témoignage, qui s'avère finalement savoir des effets positifs sur le témoin et sur les lecteurs en recherche d'informations. 

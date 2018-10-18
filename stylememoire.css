@@ -1,0 +1,123 @@
+body {
+  font-family: 'Gentium basic', serif;
+  color: black;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.h1 {
+  position: fixed;
+  z-index: 1;
+}
+
+.lien {
+  font-family: work sans;
+  font-style: italic;
+  font-size: 15px;
+}
+
+
+
+.lienpresse {
+  font-family: 'Gentium Basic';
+  font-style: italic;
+  font-size: 14px;
+  color: blue;
+  line-height: 19px;
+
+
+}
+
+.paddinglien {
+  padding-left: 70px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+footer {
+
+}
+
+.titre  {
+  position: fixed;
+  right: 16px;
+  top: 16px;
+  font-size: 23px;
+  margin: 0;
+  font-weight: 400;
+  text-align: right;
+}
+
+
+
+.menu ul {
+  padding: 0;
+  margin: 0;
+}
+
+
+.menu ul:hover img {
+  padding: 30px;
+}
+
+
+.menu.projets ul:hover img {
+  display: initial;
+}
+.menu.projets ul img {
+    width: 200px;
+    position: fixed;
+    left: 100%;
+    top: 0px;
+}
+
+.menu ul:hover img {
+    width: 100%;
+    align-items: center;
+    position:absolute;
+}
+
+.textepresentation0mem {
+  width: 48%;
+  margin-left: 1%;
+  font-size: 17px;
+  position: absolute;
+  top: 8px;
+}
+
+a.viewpic {
+  color: black;
+  text-decoration: none;
+  position:relative;
+  text-decoration: none;
+  font-family: 'Acme';
+  font-size: 17px;
+}
+
+
+a span {display: none;}
+a:active span,
+a:active.viewpic span {
+  float: right;
+  display: none;
+  width: 50%;
+}
+
+a:focus.viewpic span {
+  display: block;
+  position: fixed;
+  right: 0px;
+  top: 0%;
+  width: 30%;
+  font-family: acme;
+  font-style: ;
+  margin-right: 1%;
+  margin-left: 2%;
+
+<span></span></a>
